@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C, STM32, Electronics Manufacturing**
 
-- ⚡ Fun fact **I keep salt water reef aquariums. My favorite coral is birdsnest (Seriatopora)**
+- ⚡ Fun fact **I keep salt water reef aquariums. My favorite coral is birdsnest (<a href="https://reefs.com/magazine/fatherrees-article/" target="_blank" rel="noreferrer noopener">_Seriatopora_</a>)**
 
 
 <h3 align="left">Languages and Tools:</h3>
