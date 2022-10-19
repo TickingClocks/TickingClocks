@@ -2,7 +2,7 @@
 <h3 align="center">A passionate creator.</h3>
 <img src="https://github.com/TickingClocks/HDD-Persistence-of-Vision-Clock_V4/blob/main/Images/Prototype%20gif2.gif" height="300" align="right">
 
-- 🔭 I’m currently working on [HDD Persistence of Vision Clock V4.0](https://github.com/TickingClocks/HDD-Persistence-of-Vision-Clock_V4)
+- 🔭 I’m currently working on [HDD Persistence of Vision Clock V4](https://github.com/TickingClocks/HDD-Persistence-of-Vision-Clock_V4)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
