@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kadin</h1>
 <h3 align="center">A passionate creator.</h3>
-<img src="https://github.com/TickingClocks/HDD-Persistence-of-Vision-Clock_V4/blob/main/Images/Prototype%20gif3.gif" height="300" align="right">
+
+<img src="https://github.com/TickingClocks/HDD-Persistence-of-Vision-Clock_V4/blob/main/Images/NipkowClock.gif" height="300" align="right"
 
 - 🔭 I’m currently working on [HDD Persistence of Vision Clock V4](https://github.com/TickingClocks/HDD-Persistence-of-Vision-Clock_V4)
 
